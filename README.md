@@ -89,7 +89,3 @@ Extensions use an opt-in model: you're asked during requirements analysis whethe
 - **IDE-agnostic**: Just markdown files. Works with any AI tool that can read project files.
 - **Opinionated**: Strong defaults that prevent common AI coding mistakes.
 - **Extensible**: Add your own extensions in `extensions/` with opt-in prompts.
-
-## License
-
-MIT
