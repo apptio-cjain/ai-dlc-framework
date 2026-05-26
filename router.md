@@ -1,6 +1,6 @@
 # Flow Router
 
-MANDATORY: Always apply rules from `rules/karpathy-principles.md` in ALL interactions.
+MANDATORY: Always apply rules from `rules/coding-principles.md` in ALL interactions.
 
 ## Decision Tree
 
