@@ -7,7 +7,7 @@ Reference the framework in your CLAUDE.md:
 
 ## AI-DLC Framework
 Follow the workflow in `.ai-dlc/router.md` for all development tasks.
-Always apply rules from `.ai-dlc/rules/karpathy-principles.md`.
+Always apply rules from `.ai-dlc/rules/coding-principles.md`.
 ```
 
 ## How It Works

@@ -5,7 +5,7 @@ Copy the rules into Cursor's rules directory:
 ```bash
 mkdir -p .cursor/rules
 cp .ai-dlc/router.md .cursor/rules/ai-dlc-router.mdc
-cp .ai-dlc/rules/karpathy-principles.md .cursor/rules/karpathy-principles.mdc
+cp .ai-dlc/rules/coding-principles.md .cursor/rules/coding-principles.mdc
 ```
 
 Add `alwaysApply: true` frontmatter to both files.
